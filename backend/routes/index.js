@@ -6,7 +6,7 @@ router.get('/',function(req,res,next){
   res.send("hello")
 })
 
-router.post('/event',function(req,res,next){
+router.post('/api/event',function(req,res,next){
   
 })
 
