@@ -13,6 +13,7 @@ var event_schema =mongoose.Schema({                       //schema for new sign 
         date:String,
         venue:String,
         About:String,
+        FormData:Object
 
 });
 
